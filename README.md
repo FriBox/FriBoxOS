@@ -1,2 +1,2 @@
-# FriBox-OS
+# FriBox OS
 FriBox OS ( Custom Xubuntu Distribution )
