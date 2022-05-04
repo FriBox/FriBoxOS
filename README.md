@@ -15,3 +15,4 @@ http://fribox.cn/Download/FriBoxOS-22.04.0-2022.05.01-desktop-amd64.md5
 ![Image text](https://github.com/FriBox/FriBox-OS/blob/main/FriBoxOS.Install1.png)
 ![Image text](https://github.com/FriBox/FriBox-OS/blob/main/FriBoxOS.Install2.png)
 ![Image text](https://github.com/FriBox/FriBox-OS/blob/main/FriBoxOS.Install3.png)
+![Image text](https://github.com/FriBox/FriBox-OS/blob/main/FriBoxOS.Desktop.png)
