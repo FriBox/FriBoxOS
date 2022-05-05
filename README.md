@@ -21,3 +21,8 @@ http://fribox.cn/Download/FriBoxOS.v22.04LTS.20220508.7z
 ![Image text](FriBoxOS.Install2.png)
 ![Image text](FriBoxOS.Install3.png)
 ![Image text](FriBoxOS.Desktop.png)
+
+相关页面：
+http://fribox.cn/?p=684<br>
+https://github.com/FriBox/FriBoxOS<br>
+https://gitee.com/FriBox-OpenSource/FriBoxOS<br>
