@@ -14,6 +14,8 @@ FriBox OS v22.04.0 LTS (2022.05.08) 发布：<br>
 <br>
 下载 FriBox OS v22.04.0-2022.05.08（包含ISO文件和VM虚拟机模板文件）：<br>
 
+<br>
+
 ![Image text](FriBoxOS.Boot.png)
 ![Image text](FriBoxOS.Install1.png)
 ![Image text](FriBoxOS.Install2.png)
