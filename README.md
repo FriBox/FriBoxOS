@@ -11,7 +11,7 @@ http://fribox.cn/Download/FriBoxOS-22.04.0-2022.05.08-desktop-amd64.iso
 md5校验文件下载 FriBoxOS-22.04.0-2022.05.08-desktop-amd64.md5<br>
 http://fribox.cn/Download/FriBoxOS-22.04.0-2022.05.08-desktop-amd64.md5
 
-VM虚拟机系统模板下载 FriBoxOS.v22.04LTS.20220508.7z
+VM虚拟机系统模板下载 FriBoxOS.v22.04LTS.20220508.7z<br>
 http://fribox.cn/Download/FriBoxOS.v22.04LTS.20220508.7z
 
 ![Image text](FriBoxOS.Boot.png)
