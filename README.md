@@ -10,10 +10,8 @@ FriBox OS 是基于 Xubuntu 深度定制的派生发行版，使用轻量级桌�
 　https://gitee.com/FriBox-OpenSource/FriBoxOS<br>
 <br>
 FriBox OS v22.04.0 LTS (2022.05.08) 发布：<br>
-　使用2022-04-14发布的Linux 5.15.0-27内核；
-<br>
-下载 FriBox OS v22.04.0-2022.05.08（包含ISO文件和VM虚拟机模板文件）：<br>
-
+　下载地址（包含ISO文件和VM虚拟机模板文件）<br>
+　https://www.aliyundrive.com/s/P2e7NaCe3nZ<br>
 <br>
 
 ![Image text](FriBoxOS.Boot.png)
