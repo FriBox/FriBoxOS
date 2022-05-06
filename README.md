@@ -9,10 +9,9 @@ FriBox OS 是基于 Xubuntu 深度定制的派生发行版，使用轻量级桌�
 <br>
 FriBox OS v22.04.0 LTS (2022.05.08) 发布，下载地址：<br>
 　https://share.weiyun.com/B6TABf1w   密码：vaeifh<br>
-　https://pan.xunlei.com/s/VN1MpbTfy03YIn6OVfw0GWwKA1?pwd=w9j4#   提取码：w9j4<br>
 　https://caiyun.139.com/m/i?105CpLFYlS51x   提取码：iugP<br>
-　https://cloud.189.cn/web/share?code=RZnu2euIjuMf   访问码：ph52<br>
-　( 包含ISO文件和VM虚拟机模板文件，7z压缩包解压密码：FriBox )<br>
+　https://pan.xunlei.com/s/VN1MpbTfy03YIn6OVfw0GWwKA1?pwd=w9j4#   提取码：w9j4<br>
+( 包含ISO文件和VM虚拟机模板文件，7z压缩包解压密码：FriBox )<br>
 <br>
 
 ![Image text](FriBoxOS.Boot.png)
