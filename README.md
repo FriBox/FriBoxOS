@@ -16,5 +16,4 @@ FriBox OS v22.04.0 LTS (2022.05.08) 发布，下载地址：<br>
 ![Image text](FriBoxOS.Boot.png)
 ![Image text](FriBoxOS.Install1.png)
 ![Image text](FriBoxOS.Install2.png)
-![Image text](FriBoxOS.Install3.png)
 ![Image text](FriBoxOS.Desktop.png)
