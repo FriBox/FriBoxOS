@@ -39,7 +39,7 @@ FriBoxOS v22.04.0-220508
 - [https://github.com/FriBox/FriBoxOS](https://github.com/FriBox/FriBoxOS)
 - [https://gitee.com/FriBox-OpenSource/FriBoxOS](https://gitee.com/FriBox-OpenSource/FriBoxOS)
 
-FriBox OS v22.04.0 LTS (2022.05.08) 发布，下载地址：
+FriBox OS v22.04.0 LTS (2023.01.06) 发布，下载地址：
 - [https://share.weiyun.com/B6TABf1w](https://share.weiyun.com/B6TABf1w)  密码：vaeifh
 - [https://caiyun.139.com/m/i?105CpLFYlS51x](https://caiyun.139.com/m/i?105CpLFYlS51x)  提取码：iugP
 - ( 包含ISO文件和VM虚拟机模板文件，7z压缩包解压密码：FriBox )
