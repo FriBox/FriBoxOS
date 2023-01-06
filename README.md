@@ -12,7 +12,7 @@ FriBox OS (Linux桌面操作系统) – FriBoxOS v22.04.0-220508 于2022年5月8
 
 ### 定制详情
 
-FriBoxOS v22.04.0-220508
+FriBoxOS v22.04.0-230106
 
 - 使用xFce作为轻量级桌面环境；
 - 使用Firefox作为默认的网页浏览器；
