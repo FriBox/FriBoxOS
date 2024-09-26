@@ -40,10 +40,9 @@ FriBoxOS v22.04.0-230106
 - [https://gitee.com/FriBox-OpenSource/FriBoxOS](https://gitee.com/FriBox-OpenSource/FriBoxOS)
 
 FriBox OS v22.04.0 LTS (2023.01.06) 发布，下载地址：
-- [https://share.weiyun.com/B6TABf1w](https://share.weiyun.com/B6TABf1w)  密码：vaeifh
-- [https://caiyun.139.com/m/i?105CpLFYlS51x](https://caiyun.139.com/m/i?105CpLFYlS51x)  提取码：iugP
-- ( 包含ISO文件和VM虚拟机模板文件，7z压缩包解压密码：FriBox )
-<br><br>
+- [http://pan.fribox.cn:28080/#/?cd=%2FFriBoxOS](http://pan.fribox.cn:28080/#/?cd=%2FFriBoxOS)
+- ( 如有压缩包含有密码，解压密码均为：FriBox )
+
 
 ![Image text](FriBoxOS.Boot.png)
 ![Image text](FriBoxOS.Install2.png)
@@ -53,7 +52,7 @@ FriBox OS v22.04.0 LTS (2023.01.06) 发布，下载地址：
 
 ### 总结
 
-FriBoxOS 会为了成为 “国内好用且稳定的Linux桌面发行版之一” 而持续努力，并做出长期的技术支持。
+FriBoxOS 会为了成为 “国内好用且稳定的Linux桌面发行版之一” 而持续努力，不断版本更新，并做出长期的技术支持。
 
 
 ---
