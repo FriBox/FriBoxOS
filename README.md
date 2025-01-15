@@ -20,7 +20,6 @@ FriBox OS (Linux桌面操作系统) – FriBoxOS v24.04.1 LTS - 20250115 。
 
 FriBox OS v24.04.1 LTS (2025.01.15) 发布，下载地址：
 - [http://pan.fribox.cn:28080/#/?cd=%2FFriBoxOS](http://pan.fribox.cn:28080/#/?cd=%2FFriBoxOS)
-- ( 如有压缩包含有密码，解压密码均为：FriBox )
 
 
 ![Image text](FriBoxOS.Boot.png)
