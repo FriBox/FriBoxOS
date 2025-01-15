@@ -25,9 +25,7 @@ FriBox OS v24.04.1 LTS (2025.01.15) 发布，下载地址：
 
 ![Image text](FriBoxOS.Boot.png)
 ![Image text](FriBoxOS.Install2.png)
-![Image text](FriBoxOS.Desktop.png)
 
-20220508.001 去除 sgt-launcher sgt-puzzles gnome-mines gnome-sudoku hexchat 等游戏和聊天软件<br>
 
 ### 总结
 
